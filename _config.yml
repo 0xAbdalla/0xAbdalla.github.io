@@ -60,7 +60,7 @@ author:
   name   : "0xAbdalla"
   avatar : "/assets/images/site-images/avatar.jpg"
   bio    : "Computer science student interested in malware analysis and reverse engineering"
-  location: "/home"
+  location: "Egypt"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
